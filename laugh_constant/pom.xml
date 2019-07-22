@@ -8,7 +8,7 @@
         <version>0.0.1-SNAPSHOT</version>
     </parent>
     <groupId>com.zy.ft</groupId>
-    <artifactId>constant</artifactId>
+    <artifactId>laugh_constant</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>constant</name>
     <description>constant project</description>
